@@ -11,7 +11,7 @@
 
 - Scrum là framework để thực hiện hoá tư duy/triết lý Agile, đưa các quy tắc, vai trò, sự kiện và hiện vật rõ ràng để cả nhóm vận hành trơn tru
 
-> [!HINT]
+> [!TIP]
 > _**Agile giống như triết lý sống healthy còn Scrum là tập gym/ăn ức gà**_
 
 # Mô hình "3 - 3 - 5" cốt lõi của Scrum
