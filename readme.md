@@ -101,8 +101,6 @@ Một _Sprint_ thường kéo dài cố định từ 1 đến 4 tuần ( thông 
 
 ---
 
-<!-- [BỔ SUNG CÁC TIÊU CHUẨN QUẢN LÝ BACKLOG & USER STORY] -->
-
 # Tiêu chuẩn Quản lý Backlog & User Story
 
 ## 1. Cấu trúc phân rã công việc (4 Cấp bậc)
@@ -137,3 +135,14 @@ $$\mathbf{Epic \longrightarrow Feature \longrightarrow User\ Story \longrightarr
 - **AC (Acceptance Criteria):** Tiêu chí chấp nhận — danh sách điều kiện cần thỏa mãn để tính năng được nghiệm thu.
 - **Story Point & Planning Poker:** Điểm số đo độ phức tạp/nỗ lực kỹ thuật; Planning Poker là phương pháp bốc bài Fibonacci để cả nhóm cùng chốt điểm.
 - **Backlog Refinement:** Buổi họp định kỳ trong Sprint giữa PO và Dev Team để làm rõ nghiệp vụ, chẻ nhỏ Story và ước lượng cho các Sprint tới.
+
+# Acceptance Criteria
+
+- Là một tập hợp các điều kiện và kịch bản nghiệp vụ cụ thể mà một User Story bắt buộc phải thoả mãn để Product Owner chấp nhận nghiệm thu tính năng đó
+- Thường do PO viết khi viết User Story sau đó thảo luận và chốt cùng Dev Team trong các buổi Backlog Refinement/Sprint Planning
+- Ý nghĩa:
+
+* Giúp Dev biết mình phải code những gì, tránh thừa hoặc thiếu
+* Giúp Tester dựa vào đó để viết kịch bản kiểm thử
+
+- Trả lời câu hỏi: "Làm thế nào để biết Story này hoạt động đúng kỳ vọng của PO ?"
